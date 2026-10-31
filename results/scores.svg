@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="390" viewBox="0 0 720 390">
+<rect width="720" height="390" fill="white"/>
+<text x="24" y="32" font-family="sans-serif" font-size="20">Translation scores (higher is better)</text>
+<text x="24" y="65" font-family="sans-serif" font-size="16">BLEU</text>
+<text x="24" y="100" font-family="sans-serif" font-size="13">basic</text>
+<rect x="99" y="85" width="0.0" height="22" fill="#2563eb"/>
+<text x="106.0" y="101" font-family="sans-serif" font-size="12">0.00</text>
+<text x="24" y="168" font-family="sans-serif" font-size="13">mt5</text>
+<rect x="99" y="153" width="3.6" height="22" fill="#2563eb"/>
+<text x="109.6" y="169" font-family="sans-serif" font-size="12">0.27</text>
+<text x="24" y="236" font-family="sans-serif" font-size="13">llama</text>
+<rect x="99" y="221" width="220.0" height="22" fill="#2563eb"/>
+<text x="326.0" y="237" font-family="sans-serif" font-size="12">16.31</text>
+<text x="24" y="304" font-family="sans-serif" font-size="13">gemma</text>
+<rect x="99" y="289" width="93.5" height="22" fill="#2563eb"/>
+<text x="199.5" y="305" font-family="sans-serif" font-size="12">6.93</text>
+<text x="374" y="65" font-family="sans-serif" font-size="16">CHRF</text>
+<text x="374" y="100" font-family="sans-serif" font-size="13">basic</text>
+<rect x="449" y="85" width="1.4" height="22" fill="#16a34a"/>
+<text x="457.4" y="101" font-family="sans-serif" font-size="12">0.27</text>
+<text x="374" y="168" font-family="sans-serif" font-size="13">mt5</text>
+<rect x="449" y="153" width="15.5" height="22" fill="#16a34a"/>
+<text x="471.5" y="169" font-family="sans-serif" font-size="12">2.89</text>
+<text x="374" y="236" font-family="sans-serif" font-size="13">llama</text>
+<rect x="449" y="221" width="220.0" height="22" fill="#16a34a"/>
+<text x="676.0" y="237" font-family="sans-serif" font-size="12">40.95</text>
+<text x="374" y="304" font-family="sans-serif" font-size="13">gemma</text>
+<rect x="449" y="289" width="165.2" height="22" fill="#16a34a"/>
+<text x="621.2" y="305" font-family="sans-serif" font-size="12">30.74</text>
+</svg>

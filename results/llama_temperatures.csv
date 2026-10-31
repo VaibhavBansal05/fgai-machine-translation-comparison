@@ -1,0 +1,7 @@
+model,temperature,source,reference,translation
+llama,0,There were four.,Il y en avait quatre.,Il y a quatre.
+llama,0.7,There were four.,Il y en avait quatre.,Voici le français de ce texte : Il y a quatre.
+llama,1.0,There were four.,Il y en avait quatre.,Encore quatre!
+llama,0,"""Gentlemen,"" said Athos, addressing at the same time his companions and their adversaries, ""are we ready?""","«Messieurs, dit-il en s'adressant à la fois à ses compagnons et à leurs adversaires, y sommes-nous?","""Monsieur,"" dit Athos, en même temps avec ses compagnons et leurs ennemis, ""est-ce que nous sommes prêts?"""
+llama,0.7,"""Gentlemen,"" said Athos, addressing at the same time his companions and their adversaries, ""are we ready?""","«Messieurs, dit-il en s'adressant à la fois à ses compagnons et à leurs adversaires, y sommes-nous?","""Gentlemen,"" dit Athos, prononçant la même fois ses compagnons et leurs ennemis, ""est-ce que nous sommes prêts"
+llama,1.0,"""Gentlemen,"" said Athos, addressing at the same time his companions and their adversaries, ""are we ready?""","«Messieurs, dit-il en s'adressant à la fois à ses compagnons et à leurs adversaires, y sommes-nous?","""Dans mon ordre, tous ensemble,"" répondit Athos, qui interrompit à la fois ses compagnons et ses ennemis, ""est-il pr"

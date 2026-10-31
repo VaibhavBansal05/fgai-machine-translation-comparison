@@ -1,0 +1,7 @@
+model,temperature,source,reference,translation
+gemma,0,There were four.,Il y en avait quatre.,There were four.
+gemma,0.7,There were four.,Il y en avait quatre.,There were four.
+gemma,1.0,There were four.,Il y en avait quatre.,There were four.
+gemma,0,"""Gentlemen,"" said Athos, addressing at the same time his companions and their adversaries, ""are we ready?""","«Messieurs, dit-il en s'adressant à la fois à ses compagnons et à leurs adversaires, y sommes-nous?","""Gentlemen,"" said Athos, addressing at the same time his companions and their adversaries, ""are we ready?"""
+gemma,0.7,"""Gentlemen,"" said Athos, addressing at the same time his companions and their adversaries, ""are we ready?""","«Messieurs, dit-il en s'adressant à la fois à ses compagnons et à leurs adversaires, y sommes-nous?","""Gentlemen,"" said Athos, addressing at the same time his companions and their adversaries, ""are we ready?"""
+gemma,1.0,"""Gentlemen,"" said Athos, addressing at the same time his companions and their adversaries, ""are we ready?""","«Messieurs, dit-il en s'adressant à la fois à ses compagnons et à leurs adversaires, y sommes-nous?","""Monsieur,"" dit Athos, adressant à ses camarades et à leurs adversaires, ""est-ce que nous sommes prêts ?"""

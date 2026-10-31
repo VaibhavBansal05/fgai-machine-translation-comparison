@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.cache/
+checkpoints/
+.vscode/
+.agents/
+.aws/
+.aws
+.codex/

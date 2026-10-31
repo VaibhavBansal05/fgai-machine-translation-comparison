@@ -1,0 +1,10 @@
+{
+  "seed": 42,
+  "train": 200,
+  "val": 20,
+  "test": 20,
+  "basic_epochs": 2,
+  "mt5_epochs": 1,
+  "dataset": "Helsinki-NLP/opus_books en-fr",
+  "test_sha256": "e606f805dae759aad397a61988b8b7127453af0fa077c36b7165f0f1200b01ae"
+}

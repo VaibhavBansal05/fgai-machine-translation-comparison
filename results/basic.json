@@ -1,0 +1,27 @@
+{
+  "model": "basic",
+  "model_id": "scratch Transformer",
+  "adaptation": "trained",
+  "bleu": 0.0,
+  "chrf": 0.2662846209259387,
+  "train_seconds": 1.4962614250107436,
+  "infer_seconds": 2.0975884629879147,
+  "seconds_per_sentence": 0.10487942314939573,
+  "parameters": 1138715,
+  "test_sha256": "e606f805dae759aad397a61988b8b7127453af0fa077c36b7165f0f1200b01ae",
+  "test_size": 20,
+  "device": "cpu",
+  "settings": {
+    "seed": 42,
+    "train": 200,
+    "val": 20,
+    "test": 20,
+    "basic_epochs": 2,
+    "mt5_epochs": 1,
+    "dataset": "Helsinki-NLP/opus_books en-fr"
+  },
+  "validation_loss": [
+    7.116940975189209,
+    6.808826923370361
+  ]
+}
